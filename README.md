@@ -10,8 +10,8 @@ Welcome to my public workspace! **Nmspublic** is the open-source and free-to-use
 * **Experimentation** – Sharing public experiments, prototypes, and code concepts.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** JavaScript, Python, HTML/CSS (Change these to match yours)
-* **Tools & Platforms:** Git, GitHub, VS Code
+* **Languages:** JavaScript, Python, HTML/CSS etc
+* **Tools & Platforms:** Git, GitHub, VS Code etc
 
 ### 🤝 Get Involved
 * 🐛 **Report Issues:** Found a bug? Open an issue on any repository.
