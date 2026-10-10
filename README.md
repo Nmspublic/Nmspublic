@@ -28,4 +28,4 @@ I work with these:
 
 Badges
 
-https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)}" />
