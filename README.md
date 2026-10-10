@@ -25,3 +25,7 @@ Welcome to my public workspace! **Nmspublic** is the open-source and free-to-use
 I work with these: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ae,androidstudio,apple,arduino,aws,autocad,azul,azure,blender,c,cs,cpp,cloudflare,codepen,discord,bots,discordjs,django,github,godot,ai,java,js,kotlin,linux,lua,netlify,nextjs,nodejs,notion,ps,pr,py,r,raspberrypi,react,redhat,replit,robloxstudio,supabase,swift,tailwind,ubuntu,unity,unreal,vercel,visualstudio,vscode,windicss,windows,spotify,gamemakerstudio)](https://skillicons.dev)
+
+Badges
+
+https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white
