@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm NextMaze Studio (Public Domain) 👋
 
-<!--
-**Nmspublic/Nmspublic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my public workspace! **Nmspublic** is the open-source and free-to-use hub for **NextMaze Studio**. Everything hosted here is built for the community, shared freely, and open for collaboration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+* **Open Source Development** – Building tools and utilities that anyone can copy, modify, and improve.
+* **Community Resources** – Publishing free templates, scripts, and software assets to accelerate your projects.
+* **Experimentation** – Sharing public experiments, prototypes, and code concepts.
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** JavaScript, Python, HTML/CSS (Change these to match yours)
+* **Frameworks/Libraries:** React, Node.js
+* **Tools & Platforms:** Git, GitHub, VS Code
+
+### 🤝 Get Involved
+* 🐛 **Report Issues:** Found a bug? Open an issue on any repository.
+* 💡 **Feature Requests:** Have an idea to make a project better? Let me know!
+* fork **Contributions:** Pull requests are always welcome. Let's build together!
+
+---
+
+*“Built for the community, shared with the world.”*
+I work with these
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ae,androidstudio,apple,arduino,aws,autocad,azul,azure,blender,c,cs,cpp,cloudflare,codepen,discord,bots,discord.js,django,github,godot,ai,java,js,kotln,linux,lua,netlify,nextjs,node.js,notion,ps,pr,py,r,raspberrypi,react,redhat,replit,robloxstudio,supabase,swift,tailwind,ubuntu,unity,unreal,vercel,visualstudio,vscode,windicss,windows,)](https://skillicons.dev)
