@@ -16,7 +16,7 @@ Welcome to my public workspace! **Nmspublic** is the open-source and free-to-use
 ### 🤝 Get Involved
 * 🐛 **Report Issues:** Found a bug? Open an issue on any repository.
 * 💡 **Feature Requests:** Have an idea to make a project better? Let me know!
-* fork **Contributions:** Pull requests are always welcome. Let's build together!
+* for **Contributions:** Pull requests are always welcome. Let's build together!
 
 ---
 
