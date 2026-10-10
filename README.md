@@ -28,4 +28,4 @@ I work with these:
 
 Badges
 
-<img ![image]({[BadgeURLHere](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)})
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
