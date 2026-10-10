@@ -25,4 +25,4 @@ Welcome to my public workspace! **Nmspublic** is the open-source and free-to-use
 
 I work with these: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ae,androidstudio,apple,arduino,aws,autocad,azul,azure,blender,c,cs,cpp,cloudflare,codepen,discord,bots,discordjs,django,github,godot,ai,java,js,kotln,linux,lua,netlify,nextjs,node.js,notion,ps,pr,py,r,raspberrypi,react,redhat,replit,robloxstudio,supabase,swift,tailwind,ubuntu,unity,unreal,vercel,visualstudio,vscode,windicss,windows,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ae,androidstudio,apple,arduino,aws,autocad,azul,azure,blender,c,cs,cpp,cloudflare,codepen,discord,bots,discordjs,django,github,godot,ai,java,js,kotlin,linux,lua,netlify,nextjs,nodejs,notion,ps,pr,py,r,raspberrypi,react,redhat,replit,robloxstudio,supabase,swift,tailwind,ubuntu,unity,unreal,vercel,visualstudio,vscode,windicss,windows,)](https://skillicons.dev)
