@@ -11,7 +11,6 @@ Welcome to my public workspace! **Nmspublic** is the open-source and free-to-use
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** JavaScript, Python, HTML/CSS (Change these to match yours)
-* **Frameworks/Libraries:** React, Node.js
 * **Tools & Platforms:** Git, GitHub, VS Code
 
 ### 🤝 Get Involved
